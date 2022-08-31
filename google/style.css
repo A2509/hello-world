@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.background{
+        height: 100vh;
+    /* background-color: red; */ 
+}
+.header{
+    height: 20%;
+    /* background-color: yellow; */
+    display: flex;
+    float:right;
+    justify-content: center;
+}
+.menu{
+    height: 45px;
+    margin: 20px 0px;
+    margin-right: 5px;
+    ;
+}
+.menu:hover{
+    background-color: rgba(192, 177, 177,0.4);
+    border-radius: 40px;
+}
+.user{
+    height: 45px;
+    margin: 20px 0px;
+    margin-right: 10px;
+    border-radius: 40px
+    
+}
+
+.pps{
+    margin: 32px 5px;
+    margin-right: 10px;
+    
+}
+.google{
+    padding: 20px;
+    background-color: aqua;
+    margin-left: 40%;
+    
+}
